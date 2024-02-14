@@ -1,0 +1,10 @@
+TODO:
+1) Linear Encoder --> Class Structure?
+2) Light Board --> Class Structure?
+3) BlueTooth Thermocouple
+4) Add line plot for X Y position
+5) Add axis for plot Z position
+6) Connection Code
+    6.1) Linear Encoder
+    6.2) Lights
+    6.3) Thermocouple
